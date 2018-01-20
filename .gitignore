@@ -58,3 +58,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 1.txt
+hello
+/resources
+/apis
