@@ -1,5 +1,5 @@
 *.class
-
+mybatis-generator.xml
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
@@ -57,3 +57,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+1.txt
+hello
+/resources
+/apis
