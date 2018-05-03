@@ -1,1 +1,2 @@
 master func 1
+master func 2
