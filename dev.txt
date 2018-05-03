@@ -4,3 +4,4 @@ local modify2
 local modify3 Done Register
 
 local 1
+local 2
